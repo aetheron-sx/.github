@@ -30,8 +30,6 @@ Check our [Pinned Repos](https://github.com/DevNarda) to get started.
 - **Bima Adam** – Maintainer / Full-stack dev & coffee-driven PR reviewer ☕  
 - **Hikari Takahashi** – Front-End Developer & UI enthusiast (lead on `devnarda-web`)
 
-> PS: Hikari is our front-end persona, here to showcase clean code, good UI, and accessibility ✨
-
 ---
 
 ## 🤝 Contribute
