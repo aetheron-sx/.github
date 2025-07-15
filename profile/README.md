@@ -11,7 +11,7 @@ Whether you're just starting out or a seasoned dev, there's always space to cont
 - `aetheron-web` – The official website of Aetheron, built with modern web tech  
 - `open-taskboard` – A minimal open-source task manager  
 - `mini-utils` – Handy development tools & code snippets
-Check our [Pinned Repos](https://github.com/aether-sx) to get started.
+Check our [Pinned Repos](https://github.com/aetheron-sx) to get started.
 ---
 ## 👩‍💻 Team
 - **Bima Adam** – Maintainer / Full-stack dev & coffee-driven PR reviewer ☕  
